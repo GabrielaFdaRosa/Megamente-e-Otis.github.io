@@ -1,0 +1,63 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#tamanho {
+    width: 100%;
+}
+
+#titulo{
+    color: rgb(130, 5, 219);
+    padding: 2% 10%;
+    font-size: 50px ;
+    line-height: 1;
+    -webkit-text-stroke: 2px rgb(83, 6, 138);
+    text-align: center;
+    text-shadow: 5px 6px 8px rgb(106, 25, 113) ;
+}
+
+#subtitulo {
+    color:rgb(83, 91, 239);
+    text-align: center;
+    padding: 0 10%;
+    -webkit-text-stroke: 1px rgb(14, 19, 129);
+    text-shadow: 2px 4px 5px rgb(115, 28, 123);
+}
+
+.cor{
+    background-color: rgb(228, 125, 238);
+
+}
+.coluna {  
+    float: left;
+}
+.coluna2 {
+    float:right;
+}
+
+.dois {
+    width: 50%;
+
+}
+
+.foto {
+    width: 79.5%;  
+}
+
+.centro {
+    text-align: center;
+}
+
+.justi {
+    text-align: justify;
+}
+
+.texto {
+    padding: 0% 30%;
+    font-style: italic;
+}
+
+.texto2 {
+    padding: 0 10%;
+}
